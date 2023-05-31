@@ -1,0 +1,50 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+nav{
+    background-color: aqua;
+    width: 100%;
+    height: 70px;
+}
+
+ul{
+    float:right;
+    margin-right: 20px;
+    line-height: 70px;
+}
+
+ul li{
+    display: inline-block;
+
+}
+
+ul li a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    line-height:80px;
+}
+
+.logo{
+    line-height: 70px;
+    font-weight: bold;
+    font-size: 18px;
+    left: 5%;
+    position: relative;
+}
+
+.div_design{
+    /*background-image:url('1.jpg');
+    height:300px;
+    width:100%;
+    */
+    padding-left: 10%;
+    padding-right: 10%;
+    position: relative;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.div
